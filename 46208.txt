@@ -318,7 +318,7 @@ was only spent in a profuse shower of tears.
 I entered the city at the west gate, and called on Mr. Whiting, one
 of the American missionaries at that place, to whom I had a letter of
 introduction from Monsieur Muratt, our consular agent at Jaffa. Mr. W.
-said, that in consequence of the unsettled state of his family,(having
+said, that in consequence of the unsettled state of his family, (having
 just removed to the house which he then occupied,) he was sorry to
 say it would not be convenient for him to invite me to share his
 hospitality; but very kindly went with me to the Latin Convent, which
@@ -669,7 +669,7 @@ rural beauty and loveliness. All the irregularities and deformities of
 nature (if, indeed, there are any,) are completely lost in the distant
 view, though we gaze through the ship's powerful magnifier; so, when
 the eye of imagination surveys the saints far in the west, their faults
-and foibles are lost in the distance,(if, indeed, any they have,)
+and foibles are lost in the distance, (if, indeed, any they have,)
 and nothing but their virtues appear, which render the society very
 inviting and extremely desirable. The simple unrestrained language of
 my heart is--I want to see my brethren, for in their bosoms, I am sure,
@@ -844,7 +844,7 @@ the Alps, and try to light up a fire there. Will you give me your
 prayers that God may bless my exertions, and that I may be enabled to
 conduct myself with that dignity and propriety in all things which
 become a man of God, and which the purity and virtue of the cause I
-advocate, so justly merits; and further, that in ray great weakness
+advocate, so justly merits; and further, that in my great weakness
 celestial strength may appear.
 
 My kind respects to the presidency of the church, and a happy new year
@@ -945,7 +945,7 @@ hope also to hear something from my wife. I feel that a word from her
 would be more precious than gold; yet I am afraid to hear lest she may
 be in trouble, or some of her friends dead--a father or mother perhaps,
 or brother or sister. Yet I try to comfort myself with the thought that
-my long absence is the cause of all my had feelings. The Lord knows,
+my long absence is the cause of all my bad feelings. The Lord knows,
 and I pray that he may bind up every broken heart. Fare-thee-well; thy
 brother in the Lord,
 
@@ -1499,7 +1499,7 @@ could not go on shore after the slight exertion of drawing on my boots.
 But that is past; I am now strong and well, and have plenty to eat. I
 now have nothing but land pirates, in the shape of Arabs, to encounter.
 An Englishman seems like a brother, let his religion be what it may.
-Yet I am very partial to the fulness of the gospel; for in it have
+Yet I am very partial to the fulness of the gospel; for in it I have
 great joy.
 
 The servants are now waiting for me, and I must gird on my arms and be
@@ -1550,7 +1550,7 @@ _(From the Monthly Chronicle for April.)_
 
     A sound hath pass'd through the nations, heard
     By the heart alone, when its depths are stirr'd;
-    Mightier than that of storm--lifted seas,
+    Mightier than that of storm-lifted seas,
     Than the tempest's rush amid forrest trees;
     Mightier than sorrow's earth-born cry,
     Than the shout of kings to victory;
@@ -1571,9 +1571,9 @@ _(From the Monthly Chronicle for April.)_
       We have gain'd our home at last!
 
     "Was the scoffer strong in the days of old,
-    Fenced by his idols of dust--won gold,
+    Fenced by his idols of dust-won gold,
     Mocking their hope, while his footsteps trod
-    With the prophet--gather'd hosts of God?
+    With the prophet-gather'd hosts of God?
     Heed him not now in the times that be,
     For ours is no common destiny;
     But, with true armour, won
@@ -1582,7 +1582,7 @@ _(From the Monthly Chronicle for April.)_
       We have gain'd our home at last!
 
     "Did the desert of old yield its gushing wave,
-    For the pilgrim--fathers their thirst to lave?
+    For the pilgrim-fathers their thirst to lave?
     Did the vision of God before them stand,
     Guiding their steps to the promis'd land?
     And shall we, their children, all forget
